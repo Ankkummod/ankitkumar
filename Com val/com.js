@@ -1,0 +1,10 @@
+let value1="24";
+let value2="12";
+console.log("==", value1==value2);
+console.log("===", value1===value2);
+console.log("!=", value1!=value2);
+console.log("!==", value1!==value2);
+console.log(">", value1>value2);
+console.log("<", value1<value2);
+console.log("<=", value1<=value2);
+console.log(">=", value1>=value2);
