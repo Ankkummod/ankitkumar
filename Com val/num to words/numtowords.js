@@ -60,7 +60,6 @@ function convertNumberToWords(number) {
         if (words !== '') {
             words += 'and ';
         }
-
         if (number < 10) {
             words += units[number];
         } else if (number < 20) {
