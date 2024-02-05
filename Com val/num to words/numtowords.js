@@ -11,7 +11,6 @@ function convertToWords() {
 
     result.textContent = "In words: " + words;
 }
-
 function convertNumberToWords(number) {
     var units = ['', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine'];
     var teens = ['', 'Eleven', 'Twelve', 'Thirteen', 'Fourteen', 'Fifteen', 'Sixteen', 'Seventeen', 'Eighteen', 'Nineteen'];
